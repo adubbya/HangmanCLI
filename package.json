@@ -1,0 +1,23 @@
+{
+  "name": "HangmanCLI",
+  "version": "1.0.0",
+  "description": "just another text-based hangman game written in js, demonstrating the use of node.js , js constructors, and some nifty string manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adubbya/HangmanCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adubbya/HangmanCLI/issues"
+  },
+  "homepage": "https://github.com/adubbya/HangmanCLI#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
